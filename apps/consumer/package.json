@@ -1,0 +1,6 @@
+{
+  "name": "consumer",
+  "dependencies": {
+    "plus": "workspace:*"
+  }
+}
